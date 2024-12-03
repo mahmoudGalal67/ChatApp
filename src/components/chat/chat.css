@@ -59,7 +59,7 @@
     padding: 20px;
     flex: 1;
     overflow: auto;
-
+    max-height: 700px;
     display: flex;
     flex-direction: column;
     gap: 20px;
